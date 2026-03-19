@@ -7,6 +7,8 @@ const config = {
     extend: {
       fontFamily: {
         thunder: ['Thunder', 'sans-serif'],
+        thunderlight: ['ThunderLight', 'sans-serif'],
+        thundermedium: ['ThunderMedium', 'sans-serif'],
       },
     },
   },

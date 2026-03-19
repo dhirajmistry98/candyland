@@ -15,5 +15,19 @@
   font-style: normal;
   font-display: swap;
 }
+@font-face {
+  font-family: 'ThunderLight';
+  src: url('/fonts/Thunder-LightLC.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'ThunderMedium';
+  src: url('/fonts/Thunder-MediumLC.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
 
 
